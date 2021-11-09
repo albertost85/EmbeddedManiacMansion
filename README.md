@@ -2,7 +2,7 @@
 Maniac Mansion short episode embedded in STM32F4 ARM cortex M4
 
 ![STM32F4_Discovery_Setup](../media/IMG_1120.JPG?v=4s=1)
-<img src="../media/IMG_1120.JPG" height="24" width="48">
+<img src="https://user-images.githubusercontent.com/52652590/140903842-1c374115-6bb9-406e-8d54-add2613ac22e.JPG" height="24" width="48">
 
 ## Hardware
 Implemented in STM32F4-DISC1 ST Discovery Board, code can be easily taylored for other ARM microcontrollers, not only cortex M4. This version uses also the following equipment:
@@ -16,3 +16,4 @@ Implemented in STM32F4-DISC1 ST Discovery Board, code can be easily taylored for
 
 ## Libraries
 ![IMG_1121](https://user-images.githubusercontent.com/52652590/140902110-8cf9cfe5-eaf9-4d5a-a37d-7f1288b91335.JPG width="100" height="100")
+![IMG_1121](https://user-images.githubusercontent.com/52652590/140903842-1c374115-6bb9-406e-8d54-add2613ac22e.JPG)
