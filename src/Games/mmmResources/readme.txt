@@ -1,0 +1,1 @@
+Directory in the SD is 0:MMMania, just one image goes there.

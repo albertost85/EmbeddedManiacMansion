@@ -1,0 +1,19 @@
+https://www.segger.com/emwin-bitmap-converter.html
+
+
+HOW TO GENERATE THE C SOURCE FROM A IMAGE FILE
+//////////////////////////////////////////////
+
+1. Run the application "BmpCvtST.exe" from STermWin Library.
+
+2. Load the target image file.
+
+3. Go to Image > Convert to... > 16 bit Color 565.
+
+4. Save as .c source selecting RGB565 WITH RED AND BLUE SWAPPED.
+
+5. Copy the file to your project.
+
+6. Adapt the image structure to own FLASH_IMAGE structure  
+
+7. Ready!
